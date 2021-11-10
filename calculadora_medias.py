@@ -1,3 +1,14 @@
+"""
+
+           André Rodrigues Bertacchi, Universidade Federal do ABC
+
+           Calculadora de média e desvio-padrão
+
+           Recebe como input uma série de valores e calcula a média e o desvio-padrão
+
+"""
+
+
 import math
 n=int(0)
 vetor=[]
